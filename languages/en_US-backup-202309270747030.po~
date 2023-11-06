@@ -1,0 +1,279 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FIS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-27 07:46+0000\n"
+"PO-Revision-Date: 2023-09-27 07:46+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.1\n"
+"X-Domain: fis"
+
+#: 404.php:277
+msgid "404"
+msgstr ""
+
+#. Name of the template
+msgid "Accompany"
+msgstr ""
+
+#: functions.php:121
+msgid "Add widgets here."
+msgstr ""
+
+#. Name of the template
+msgid "BFSI"
+msgstr ""
+
+#. Name of the template
+msgid "Case study"
+msgstr ""
+
+#. Name of the template
+msgid "Case study detail"
+msgstr ""
+
+#. Name of the template
+msgid "Chi tiết góc nhìn số"
+msgstr ""
+
+#: components/section/share.php:7
+msgid "Chia sẻ"
+msgstr ""
+
+#. Name of the template
+msgid "Chuyên mục tin tức"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Chưa có bài viết nào được đăng."
+msgstr ""
+
+#: components/block__product.php:46
+msgid "Chọn danh mục"
+msgstr ""
+
+#: template-parts/taxonomy/danh_muc_cau_chuyen.php:52
+#: template-parts/taxonomy/danh_muc_goc_nhin_so.php:28
+msgid "Chủ đề"
+msgstr ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Name of the template
+msgid "Cover Private"
+msgstr ""
+
+#. Name of the template
+msgid "Cover Public"
+msgstr ""
+
+#. Name of the template
+msgid "Customer"
+msgstr ""
+
+#: components/block__product.php:43
+msgid "Danh mục sản phẩm"
+msgstr ""
+
+#: template-parts/taxonomy/danh_muc_cau_chuyen.php:108
+msgid "Dịch vụ"
+msgstr ""
+
+#. Name of the theme
+msgid "FIS"
+msgstr ""
+
+#: template-page/news-achive.php:309
+msgid "Giải thưởng"
+msgstr ""
+
+#. Name of the template
+msgid "Goverment"
+msgstr ""
+
+#. Name of the template
+#: template-parts/taxonomy/danh_muc_goc_nhin_so.php:5
+msgid "Góc nhìn số"
+msgstr ""
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "https://wecan-group.com/"
+msgstr ""
+
+#. Name of the template
+msgid "iHRP"
+msgstr ""
+
+#: inc/customizer-shortcode.php:36
+msgid "Khu vực"
+msgstr ""
+
+#: template-parts/taxonomy/danh_muc_cau_chuyen.php:5
+msgid "Khách hàng điển hình"
+msgstr ""
+
+#: single-cau_chuyen.php:81
+msgid "Khám phá thêm"
+msgstr ""
+
+#: components/block__product.php:131
+msgid "Không tìm thấy kết quả !"
+msgstr ""
+
+#. Name of the template
+msgid "Kiến tạo giải pháp số"
+msgstr ""
+
+#. %s: search query.
+#: search.php:91
+#, php-format
+msgid "Kết quả tim kiếm cho: %s"
+msgstr ""
+
+#. %s: search query.
+#: search.php:19
+#, php-format
+msgid "Kết quả tìm kiếm cho: %s"
+msgstr ""
+
+#. Name of the template
+msgid "Landing"
+msgstr ""
+
+#: inc/customizer-shortcode.php:27
+#: template-parts/taxonomy/danh_muc_cau_chuyen.php:80
+msgid "Lĩnh vực"
+msgstr ""
+
+#: functions.php:55
+msgid "Menu Chính"
+msgstr ""
+
+#: single-goc_nhin_so.php:59 single.php:66
+msgid "Ngày"
+msgstr ""
+
+#: components/block__product.php:61 components/block__search_filter.php:12
+#: template-parts/taxonomy/danh_muc_cau_chuyen.php:28
+msgid "Nhập nội dung bạn muốn tìm kiếm"
+msgstr ""
+
+#. 1: title.
+#: comments.php:36
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. Name of the template
+msgid "Paperless"
+msgstr ""
+
+#. Name of the template
+msgid "Partner-cover"
+msgstr ""
+
+#. Name of the template
+msgid "Product A-Z"
+msgstr ""
+
+#: header.php:68 components/block__search_filter.php:18
+#: template-parts/taxonomy/danh_muc_cau_chuyen.php:31
+msgid "Search"
+msgstr ""
+
+#: functions.php:119
+msgid "Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Song hành kích hoạt năng lực số"
+msgstr ""
+
+#. Name of the template
+msgid "Song hành kết nối kinh doanh"
+msgstr ""
+
+#. Name of the template
+msgid "Song hành tăng trưởng số"
+msgstr ""
+
+#. Description of the theme
+msgid "Start theme by TiLu - Wecan Group"
+msgstr ""
+
+#: template-parts/taxonomy/danh_muc_cau_chuyen.php:136
+msgid "Sản phẩm"
+msgstr ""
+
+#: single-goc_nhin_so.php:40 single.php:47
+msgid "Tags"
+msgstr ""
+
+#: components/section/author.php:20
+msgid "Theo dõi"
+msgstr ""
+
+#. Author of the theme
+msgid "TiLu"
+msgstr ""
+
+#: single-goc_nhin_so.php:84 single.php:185 template-page/news-achive.php:29
+msgid "Tin liên quan"
+msgstr ""
+
+#: 404.php:280
+msgid "Trang không tồn tại."
+msgstr ""
+
+#: template-page/news-achive.php:469
+msgid "Truyền thông nói về chúng tôi"
+msgstr ""
+
+#: template-parts/content_home-cap_nhat.php:36
+#: template-parts/content_home-cau_chuyen.php:29
+#: template-parts/content_home-du_an.php:21
+#: template-parts/content_home-post.php:29
+#: template-parts/content_home-tai_nguyen.php:21
+msgid "Tìm hiểu thêm"
+msgstr ""
+
+#: components/block__search_filter.php:9
+#: template-parts/taxonomy/danh_muc_cau_chuyen.php:25
+msgid "Tìm kiếm"
+msgstr ""
+
+#: template-page/news-achive.php:590
+msgid "Tổng hợp"
+msgstr ""
+
+#: single.php:190 components/block__optimize.php:224
+#: components/block__trend.php:107 components/block__trend.php:156
+#: components/home__field.php:44 components/home__news.php:208
+#: template-parts/taxonomy/danh_muc_cau_chuyen.php:188
+#: template-parts/taxonomy/danh_muc_goc_nhin_so.php:74
+msgid "Xem thêm"
+msgstr ""
+
+#: components/block__trend.php:56 template-page/news-achive.php:33
+#: template-page/news-achive.php:313 template-page/news-achive.php:473
+msgid "Xem tất cả"
+msgstr ""
